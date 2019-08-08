@@ -1,4 +1,4 @@
-# Eclipse code style files
+# Eclipse Code Style Files
 
 Configuration files for [Eclipse][eclipse]'s code style formatter
 
